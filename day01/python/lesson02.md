@@ -44,7 +44,7 @@ gagal_hari_ini = input("Login gagal: ") # user mengetik angka 3
 total_gagal = gagal_hari_ini * 5
 print(total_gagal)
 
-Operasi MTK akan error dan gagal print
+Operasi akan berjalan namun hasilnya tidak akan sesuai harapan. Dengan kode seperti itu akan menghasilkan perkalian antara string 3 dan angka 5 yang akan menghasilkan "33333"/string 3 5x
 
 2. Predict: Apa output dari perintah ini di Python: print(type("100")) dan print(type(100))? (Silakan coba di terminalmu jika ragu).
 
